@@ -2,4 +2,6 @@ prima versione master
 
 modifica 1
 
-mdofica 2 (dovrebbe essere sul branch iphone)
+mdofica 2 (dovrebbe essere sul branchios)
+
+modifica 3 (sono sul branchios)
