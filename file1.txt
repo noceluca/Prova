@@ -2,6 +2,6 @@ prima versione master
 
 modifica 1
 
-mdofica 2 (dovrebbe essere sul branchios)
+mdofica 2 merged tra le 2 versioni
 
 modifica 3 (sono sul branchios)
