@@ -2,3 +2,6 @@
 
 
 2) modifiche master da propagare
+
+
+3) modifiche master da NON propagare

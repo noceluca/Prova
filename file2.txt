@@ -2,3 +2,5 @@ file comune
 
 
 - modifiche master da propagare
+
+- modifiche master da NON propagare
