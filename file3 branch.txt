@@ -2,5 +2,3 @@
 
 2) versione ios
 2) modifiche master da propagare
-
-3) nuova modifica per ios
