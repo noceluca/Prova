@@ -5,3 +5,5 @@
 
 
 3) modifiche master da NON propagare
+
+4) modifiche master da NON propagare_2
