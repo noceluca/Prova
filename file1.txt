@@ -19,3 +19,6 @@ modifica 7
 
 
 modifica 8 (fatta da virtualXP)
+
+
+9) modifiche master da propagare col commit

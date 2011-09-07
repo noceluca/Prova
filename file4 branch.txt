@@ -4,3 +4,5 @@
 
 
 3) modifiche master da propagare
+
+4) modifiche master da propagare col commit
