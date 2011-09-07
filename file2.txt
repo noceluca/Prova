@@ -1,1 +1,4 @@
 file comune
+
+
+- modifiche master da propagare
