@@ -6,3 +6,5 @@ file comune
 - modifiche master da NON propagare
 
 - modifiche master da NON propagare_2
+
+- nuova modifica master
